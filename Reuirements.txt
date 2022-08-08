@@ -4,3 +4,5 @@ Landing page
 company logo
 login page
 home page
+
+forgot password link added
