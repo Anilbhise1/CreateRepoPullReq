@@ -1,0 +1,6 @@
+this is new requirement
+relesing first version with following functionalities
+Landing page
+company logo
+login page
+home page
